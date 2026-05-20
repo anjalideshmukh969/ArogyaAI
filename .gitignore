@@ -1,11 +1,23 @@
-# Node.js
+# backend
 node_modules/
 .next/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
 
 # Python
 venv/
 __pycache__/
 *.pyc
+
+# ML-service
+ml-service/venv/
+ml-service/__pycache__/
+ml-service/.env
 
 # Environment files
 .env
