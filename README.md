@@ -80,7 +80,7 @@ flowchart LR
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/arogyaai.git
+git clone https://github.com/anjalideshmukh969/arogyaai.git
 cd arogyaai
 ```
 
@@ -152,17 +152,7 @@ ArogyaAI is designed for **educational and assistance purposes only** and should
 
 ## 👨‍💻 Contributors
 
-* Your Name
-* Team Members
+* Anjali Deshmukh
+
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a **star ⭐** on GitHub to support development and future improvements.
