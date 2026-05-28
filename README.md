@@ -37,12 +37,6 @@ The goal is to improve healthcare accessibility, reduce medication errors, and h
 * Context-aware prescription understanding
 * Smart validation of extracted medical information
 
-### ⚡ Modern Tech Stack
-
-* Fast and responsive frontend using **Next.js**
-* High-performance backend powered by **FastAPI**
-* AI-assisted processing for accurate extraction and analysis
-
 ---
 
 ## 🛠️ Tech Stack
