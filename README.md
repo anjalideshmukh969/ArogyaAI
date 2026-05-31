@@ -144,7 +144,7 @@ ArogyaAI is designed for **educational and assistance purposes only** and should
 
 ---
 
-## 👨‍💻 Contributors
+## 👨‍💻 Author
 
 * Anjali Deshmukh
 
