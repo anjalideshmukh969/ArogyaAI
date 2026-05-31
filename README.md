@@ -44,7 +44,7 @@ The goal is to improve healthcare accessibility, reduce medication errors, and h
 | Technology        | Purpose                           |
 | ----------------- | --------------------------------- |
 | **Next.js**       | Frontend UI                       |
-| **FastAPI**       | Backend APIs                      |
+| **FastAPI & Node.js**| Backend                       |
 | **OCR Engine**    | Prescription text extraction      |
 | **AI/NLP Models** | Medicine analysis & safety checks |
 | **Python**        | Backend processing                |
