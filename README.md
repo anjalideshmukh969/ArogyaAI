@@ -136,11 +136,6 @@ ArogyaAI/
 * ☁️ Cloud storage for prescription history
 * 👨‍⚕️ Doctor & pharmacist dashboard
 
----
-
-## 🔒 Disclaimer
-
-ArogyaAI is designed for **educational and assistance purposes only** and should not replace professional medical advice, diagnosis, or treatment. Always consult qualified healthcare professionals before making medical decisions.
 
 ---
 
