@@ -1,6 +1,6 @@
 # ArogyaAI 🩺
 
-### AI-Powered Prescription Digitizer & Medicine Safety Checker
+### AI-Powered Prescription Digitizer & Medicine Safety Checker.
 
 > Making prescriptions safer, smarter, and easier to understand using AI.
 
