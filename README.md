@@ -9,7 +9,6 @@
 ## 📌 Overview
 
 **ArogyaAI** is an intelligent healthcare platform that helps users digitize and analyze medical prescriptions using **OCR**, **AI-powered text extraction**, and **medicine safety analysis**.
-
 Users can upload prescription images or PDFs, and ArogyaAI automatically extracts medicine details, detects duplicate medications, identifies missing dosage instructions, and warns about potentially harmful drug interactions.
 
 The goal is to improve healthcare accessibility, reduce medication errors, and help patients better understand their prescriptions.
